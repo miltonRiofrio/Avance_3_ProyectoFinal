@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Controlador/ListaDoble/ListaDoble.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Controlador/ListaDoble/NodoDE.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Vistas/HistorialEntrega.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Controlador/Dao/HistorialEntregaDao.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Vistas/RegistroEnvios.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Modelo/Envio.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Controlador/Dao/EmpleadoDao.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Controlador/Dao/EnvioDao.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Modelo/Cuenta.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Vistas/FrmRegistro.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Controlador/Utiles.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Controlador/servicio/EmpleadoServicio.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Controlador/servicio/CuentaServicio.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Controlador/Conexion.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Controlador/Dao/PersonaDao.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/datos/Cuenta.json</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Vistas/CargarArticulos.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Controlador/Dao/CuentaDao.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Vistas/Tablas/ModeloTablaHistorialEntrega.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Controlador/Dao/ArticuloDao.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Controlador/Dao/AdaptadorDao.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Modelo/Articulo.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Modelo/Rol.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Modelo/Persona.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Vistas/Tablas/ModeloTablaArticulos.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Controlador/servicio/PersonaServicio.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Controlador/Sesion.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Controlador/servicio/RolServicio.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Vistas/Tablas/ModeloTablaCamionero.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Modelo/Paquete.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Controlador/Dao/RolDao.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Modelo/Empleado.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Modelo/HistorialEntrega.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Documents/NetBeansProjects/ProyectoEstructura/src/Vistas/Tablas/ModeloTablaEnvios.java</file>
+        </group>
+    </open-files>
+</project-private>
